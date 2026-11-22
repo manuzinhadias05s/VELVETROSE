@@ -1,0 +1,12 @@
+VELVET ROSE — PROJETO ACADÊMICO
+
+Criadoras: Emanuella Dias e Isabelle Katiúcia.
+Empresa fictícia de moda feminina. Fundada em 2019 pela personagem fictícia Isabella Monteiro. Matriz fictícia no Shopping Recife; filiais fictícias no RioMar Recife, Caruaru Shopping e Salvador Shopping.
+
+COMO TESTAR: extraia a pasta e abra index.html no navegador. Para editar, clique em Gestor. Senha de demonstração: velvet-demo-2019. Produtos e fluxo de caixa ficam salvos apenas no armazenamento local daquele navegador (localStorage).
+
+PUBLICAR: acesse https://app.netlify.com/drop, entre na sua conta e arraste a pasta Velvet_Rose. O Netlify gera um endereço público. Você precisa fazer login e autorizar a publicação; não consigo entrar na sua conta nem criar o link em seu nome.
+
+IMPORTANTE: esta é uma versão estática demonstrativa. O login do gestor é apenas uma trava visual no navegador, não é autenticação segura. Não use senhas, dados pessoais ou dados financeiros reais. Para produção, integrar Supabase Auth com Google OAuth, banco de dados com RLS, Storage e regras de segurança. As alterações no localStorage não sincronizam entre dispositivos ou visitantes.
+
+FERRAMENTAS: parcelamento com sistema Price (juros compostos e parcelas iguais) ou juros simples; desconto e margem; preço sugerido por custo variável e margem desejada; ponto de equilíbrio; fluxo de caixa com receitas, despesas e saldo. Fórmulas simplificadas para fins didáticos. Acrescente impostos, taxas e outros custos se a professora solicitar.
